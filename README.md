@@ -35,7 +35,7 @@ Through this project, I improved my understanding of:
 - Data visualization techniques
 
 ## Dashboard Preview
-(Screenshot will be added here)
+![Dashboard Preview](data/screenshots/dashboard-preview.png)
 
 ## Author
 Puneet Goswami
